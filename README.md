@@ -64,6 +64,7 @@ instagram-mini-clone/
 │   │
 │   ├── static/
 │   │   └── uploads/
+        └── style.css
 │   │
 │   ├── extensions.py
 │   ├── config.py
@@ -214,3 +215,4 @@ Flask | Python | SQL | Selenium
 Email:sonuthakur009912@gmail.com  
 LinkedIn:https://www.linkedin.com/in/sonuthakurcse  
 ---
+
